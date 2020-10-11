@@ -1,6 +1,5 @@
 ## Hello World ! 👋
 
-****************
 ### WHOAMI ?
 Je s'appelle ~~*root*~~ Romain FEREGOTTO, et je suis Développeur Web. </br>
 Je suis un Bachelor en développement Web [@Hetic](https://cutt.ly/tf4Rq4h) depuis **1ans** et je me spécialise côté Back-end. </br>
