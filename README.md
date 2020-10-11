@@ -5,7 +5,7 @@ Je s'appelle ~~*root*~~ Romain FEREGOTTO, et je suis Développeur Web. </br>
 Je suis un Bachelor en développement Web [@Hetic](https://cutt.ly/tf4Rq4h) depuis **1ans** et je me spécialise côté Back-end. </br>
 Je m'intérresse également aux enjeux cloud, de virtualisation, ... et bien d'autres.
 
-### ⚡ Technologies
+### ⚡ TECHNOLOGIES
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php)
