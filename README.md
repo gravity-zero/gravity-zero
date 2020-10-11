@@ -3,8 +3,10 @@
 ****************
 ### WHOAMI ?
 
-Je s'appel ~~*root*~~ Romain FEREGOTTO, et je suis Développeur Web. 
-Je suis un Bachelor en développement Web [@Hetic](https://cutt.ly/tf4Rq4h) depuis *1ans*, je me spécialise en Back-end.
+Je s'appelle ~~*root*~~ Romain FEREGOTTO, et je suis Développeur Web. 
+
+Je suis un Bachelor en développement Web [@Hetic](https://cutt.ly/tf4Rq4h) depuis *1ans* et je me spécialise côté Back-end.
+
 Je m'intérresse également aux enjeux cloud, de virtualisation, ... et bien d'autres.
 
 ### ⚡ Technologies
@@ -21,6 +23,7 @@ Je m'intérresse également aux enjeux cloud, de virtualisation, ... et bien d'a
 ### 📫 CONTACT
 
 [Linkedin](https://www.linkedin.com/in/romain-feregotto/)
+
 <romain.feregotto@gmail.com>
 
 <!--
